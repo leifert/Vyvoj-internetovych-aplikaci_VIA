@@ -1,0 +1,33 @@
+.degree:after {
+    content: '°C';
+    position: absolute;
+    font-size: 3rem;
+    margin-top: 0.4rem;
+    font-weight: 400;
+}
+
+
+#icon{
+    width: 100px;
+    height: 100px;
+}
+#iconForecast0{
+    width: 35px;
+    height: 35px;
+}
+#iconForecast1{
+    width: 35px;
+    height: 35px;
+}
+#iconForecast2{
+    width: 35px;
+    height: 35px;
+}
+#iconForecast3{
+    width: 35px;
+    height: 35px;
+}
+#iconForecast4{
+    width: 35px;
+    height: 35px;
+}
