@@ -1,0 +1,163 @@
+body {
+    font-family: 'Open Sans';
+    overflow-x: hidden; /* Show scrollbars */
+
+}
+#bannText{
+    font-weight: bold;
+    font-size: 51px;
+}
+#bannText2{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 23px;
+
+}
+.navItems li a {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.nav-link{
+    color: #333;
+}
+.nav-link:hover{
+    color: #0050FC;
+}
+.dropdown-menu a:hover{
+    color: #0050FC;
+}
+#btnBanner{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 640;
+    padding: 6px 33px 6px 33px;
+    background-image: linear-gradient(to right,#06038d 25%,#00a3e1 100%);
+    border: unset;
+}
+
+.banner{
+    min-height: 100vh;
+    background-size: cover;
+    background-image: url("images/banner.jpg");
+}
+
+.text-underline-hover {
+    text-decoration: none;
+    opacity: 0.6;
+    color: white;
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+}
+.title:hover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+    opacity: 0.5;
+}
+.img-gray{
+    filter: brightness(60%);
+    -webkit-filter: brightness(60%);
+}
+
+.text-underline-hover:hover {
+    text-decoration: underline;
+    opacity: 1;
+    color: white;
+}
+#novinky{
+    color: #585858;
+}
+.novinkyDatum{
+    font-size: 11px;
+}
+.clanekOdkaz{
+    color: #444444;
+
+}
+.clanekOdkaz:hover{
+    color: #444444;
+    opacity: 0.7;
+}
+
+.social-icons{
+    color: white;
+    opacity: 0.8;
+    padding: 0 35px 0 0;
+}
+.social-icons:hover{
+    color: white;
+    opacity: 1;
+}
+footer {
+    background: #0c2340;
+}
+.footer li {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    padding-bottom: 8px;
+}
+.footer a:link {
+    color: white;
+}
+.spacing{
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+.credits{
+    background-color: #162e4b;
+    padding: 10px;
+    font-size: 11px;
+    color: white;
+}
+.credits a {
+    color: white;
+    text-decoration: underline;
+}
+
+.divClanek{
+    color: #333333;
+    padding-top: 150px;
+}
+.nadpisClanek{
+    text-transform: uppercase;
+    color: #333333;
+    font-size: 50px;
+    font-weight: bold;
+}
+.clanekNadpis2{
+    font-size: 18px;
+}
+.novinkyNazev{
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.publishdate{
+    font-family: 'Overpass';
+}
+.divContact{
+    color: #333333;
+    padding-top: 100px;
+}
+#tour{
+    color: #585858;
+}
+#demo{
+    text-align: center;
+    font-size: 60px;
+    color: #333333;
+}
