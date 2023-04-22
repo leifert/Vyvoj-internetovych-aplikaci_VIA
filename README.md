@@ -18,7 +18,9 @@ daty, apod.)
 
 **Řešení:**
 
-Projekt obsahuje jednu aplikaci na předpověď počasí využívající OpenWeather API. A druhou aplikaci zobrazujicí mapu (Leaflet), kde jsou zobrazené veřejné záchody v Praze. Využivá Golemio API.
+Projekt obsahuje jednu aplikaci na předpověď počasí využívající OpenWeather API. A druhou aplikaci zobrazujicí mapu (Leaflet), kde jsou zobrazené veřejné záchody v Praze. Využivá Golemio API (V této době už API public toilets neexistuje).
+
+![alt text](https://raw.githubusercontent.com/leifert/Vyvoj-internetovych-aplikaci_VIA/main/images/projectA.png?raw=true)
 
 
 **Projekt B:**
@@ -46,3 +48,9 @@ obsahem.
 **Řešení:**
 
 Můj projekt je kopie webu [giant-bicycles](https://giant-bicycles.com/cz) vytvořená pomocí stylovacího frameworku Bootstrap 5
+
+![alt text](https://raw.githubusercontent.com/leifert/Vyvoj-internetovych-aplikaci_VIA/main/images/projectB.png?raw=true)
+
+![alt text](https://raw.githubusercontent.com/leifert/Vyvoj-internetovych-aplikaci_VIA/main/images/projectB1.png?raw=true)
+
+![alt text](https://raw.githubusercontent.com/leifert/Vyvoj-internetovych-aplikaci_VIA/main/images/projectB2.png?raw=true)
