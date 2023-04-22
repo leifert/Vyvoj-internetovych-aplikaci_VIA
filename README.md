@@ -4,7 +4,7 @@ This repo contains source codes from the Development of Internet Applications cl
 
 Zadání: 
 
-Projekt A:
+**Projekt A:**
 
 JavaScript aplikace využívající libovolné API. Důraz v tomto projektu bude kladen
 především na aplikační logiku na straně klienta a zpracování dat. Povinně se tedy v
@@ -16,12 +16,12 @@ dostupných API (Facebook, Google, Twitter, apod.)
 daty, apod.)
 - Práce s komponenty třetích stran (Mapy, Grafy, apod.)
 
-Řešení:
+**Řešení:**
 
 Projekt obsahuje jednu aplikaci na předpověď počasí využívající OpenWeather API. A druhou aplikaci zobrazujicí mapu (Leaflet), kde jsou zobrazené veřejné záchody v Praze. Využivá Golemio API.
 
 
-Projekt B:
+**Projekt B:**
 
 jedná se o projekt, jehož výsledkem bude komplexní HTML 5 webová stránka.
 Na vstupu si student sám vybere grafický design stránky (existující reálná webová
@@ -43,6 +43,6 @@ Rozsah stránek bude minimálně 1 hlavní stránka a 3 samostatné podstránky 
 obsahem. 
 
 
-Řešení:
+**Řešení:**
 
 Můj projekt je kopie webu [giant-bicycles](https://giant-bicycles.com/cz) vytvořená pomocí stylovacího frameworku Bootstrap 5
